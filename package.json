@@ -36,7 +36,9 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "eslint-plugin-jest-dom": "^5.4.0",
-    "eslint-plugin-testing-library": "^6.2.2"
+    "eslint-plugin-testing-library": "^6.2.2",
+    "jest": "^27.5.1"
   }
 }
